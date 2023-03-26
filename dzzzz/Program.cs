@@ -17,6 +17,7 @@ int[] Array(int size)
 
     return arr;
 }
+int [] a = Array(size); 
 void PrintArray(int[] arr)
 {
     Console.Write("[");
@@ -27,7 +28,7 @@ void PrintArray(int[] arr)
     Console.Write("]");
     System.Console.WriteLine();
 }
-PrintArray(Array(size));
+PrintArray(a);
 
 // Все равно не понял как вывести так - [1, 2, 5, 7, 19]
 //Если боьясните в следующем семинаре было бы неплохо)

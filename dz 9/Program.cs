@@ -33,6 +33,7 @@ void PrintArray(int size, int[] arr)
     }
     Console.Write("]");
     Console.WriteLine();
+    
 }
 PrintArray(size, arr);
 

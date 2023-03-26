@@ -1,0 +1,15 @@
+D:\Учеба\DZ\dz12\bin\Debug\net6.0\dz12.exe
+D:\Учеба\DZ\dz12\bin\Debug\net6.0\dz12.deps.json
+D:\Учеба\DZ\dz12\bin\Debug\net6.0\dz12.runtimeconfig.json
+D:\Учеба\DZ\dz12\bin\Debug\net6.0\dz12.dll
+D:\Учеба\DZ\dz12\bin\Debug\net6.0\dz12.pdb
+D:\Учеба\DZ\dz12\obj\Debug\net6.0\dz12.csproj.AssemblyReference.cache
+D:\Учеба\DZ\dz12\obj\Debug\net6.0\dz12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\DZ\dz12\obj\Debug\net6.0\dz12.AssemblyInfoInputs.cache
+D:\Учеба\DZ\dz12\obj\Debug\net6.0\dz12.AssemblyInfo.cs
+D:\Учеба\DZ\dz12\obj\Debug\net6.0\dz12.csproj.CoreCompileInputs.cache
+D:\Учеба\DZ\dz12\obj\Debug\net6.0\dz12.dll
+D:\Учеба\DZ\dz12\obj\Debug\net6.0\refint\dz12.dll
+D:\Учеба\DZ\dz12\obj\Debug\net6.0\dz12.pdb
+D:\Учеба\DZ\dz12\obj\Debug\net6.0\dz12.genruntimeconfig.cache
+D:\Учеба\DZ\dz12\obj\Debug\net6.0\ref\dz12.dll
